@@ -1,0 +1,104 @@
+.WebEvent *
+{
+    font-family: sans-serif;
+    /* background-color: black; */
+    /* color: white; */
+}
+
+.Event-title h1
+{
+    color: #0ef;
+    font-size: 40px;
+}
+
+.head-icon button
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid gray;
+    color: #0ef;
+    background-color: black;
+    text-align: left;
+    margin-left: 90%;
+}
+
+.Event
+{
+   background-color: white;
+   color: black;
+   margin: auto;
+   margin-left: 15%;
+   margin-right:15% ;
+   margin-bottom: 40px;
+   padding: 10px;
+   border: 2px solid black;
+   border-radius: 30px;
+}
+
+.Event:hover
+{
+   background-color: black;
+   color: white;
+}
+
+.Event-img
+{
+    display: flex;
+}
+
+.Event-img img
+{
+   margin: 10px;
+   margin-left: 20px;
+   border: 2px solid black;
+   border-radius: 30px;
+}
+
+.Event-Content
+{
+    text-align: center;
+    padding-left: 20px;
+}
+
+.register-button
+{
+    text-align: left;
+    padding-left: 80px;
+    padding-top: 70px;
+}
+
+.register-button button
+{
+    padding: 10px;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: red;
+    border: 2px solid gray;
+    border-radius: 20px;
+}
+
+.register-button button:hover
+{
+    background-color: gray;
+}
+
+.Note
+{
+    color: gray;
+    padding-left: 40%;
+    font-size: 20px;
+}
+.Note span
+{
+    color: red;
+    font-size: 20px;
+}
+
+.Note:hover
+{
+    color: black;
+}
+

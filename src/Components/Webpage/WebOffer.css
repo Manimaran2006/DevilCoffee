@@ -1,0 +1,86 @@
+.Offer
+{
+    font-family: sans-serif;
+    margin-bottom: 20px ;
+}
+
+.head-icon button
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid gray;
+    color: #0ef;
+    background-color: black;
+    text-align: left;
+    margin-left: 90%;
+}
+
+.Home-Icon
+{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    border: 3px solid black;
+    font-size: 20px;
+    color: #0ef;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.Offer h1
+{
+    color: #0ef;
+    font-size: 40px;
+}
+
+.item1
+{
+    display: flex;
+    border: 2px solid gray;
+    border-radius: 30px;
+    height: 200px;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.item1:hover
+{
+    background-color: black;
+    color: #0ef;
+}
+
+.img1
+{
+    height: 150px;
+    width: 30%;
+    padding-left: 200px;
+}
+
+.ItemContents{
+    width: 40%;
+}
+
+.More
+{
+    margin-left: 90%;
+    margin-top: 2%;
+    font-size: 25px;
+    margin-bottom: 2%;
+    padding: 5px;
+    border: 2px solid black;
+    background-color: rgb(89, 103, 104);
+    padding-left: 30px;
+    border-radius: 20px;
+    padding-right: 30px;
+}
+
+.More:hover
+{
+    background-color: black;
+    border: 2px solid wheat;
+    color: white;
+}

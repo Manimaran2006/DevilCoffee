@@ -1,0 +1,47 @@
+body
+{
+    background-color: black;
+    font-family: sans-serif;
+}
+.title h1{
+    color: rgb(140, 114, 74);
+    padding: 20px;
+    font-size: 50px;
+}
+.Container
+{
+    margin-top: 8pc;
+    text-align: left;
+    padding-left: 2pc;
+    padding-bottom: 10px;
+    padding:50px;
+    border-radius: 10px;
+    margin-left: 20pc;
+    background: transparent;
+    color: rgb(170, 182, 153);
+    margin-right: 20pc;
+    border: 5px solid rgb(52, 2, 2);
+    box-shadow: 0 0 25px red;
+}
+.head
+{
+    font-size: 30px;
+    font-weight: 70pc;
+}
+input{
+    margin-top: 10px;
+    padding: 5px;
+    width: 45pc;
+    font-weight: 300;
+    color: rgb(32, 52, 3);
+    border: 2px solid black;
+    border-radius: 15px;
+}
+input:hover
+{
+    background-color: gainsboro;
+}
+input:focus
+{
+    background-color: rgb(174, 174, 149);
+}
