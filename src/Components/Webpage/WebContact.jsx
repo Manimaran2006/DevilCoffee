@@ -12,7 +12,7 @@ const WebContact = () => {
            <div className='Contact'>
                <h1><center>Contect Information</center></h1>
                     <label>
-                        <h2>Shop Name :   <span className='Shop-Name'>𝔡𝔢𝔳𝔦𝔩 .ℭ𝔬𝔣𝔣𝔢𝔢😈</span></h2>
+                        <h2>Shop Name :   <span className='Shop-Name'>.ℭ𝔬𝔣𝔣𝔢𝔢</span></h2>
                     </label>
                     <label>
                         <h2>Location :   <span>Perambalur,Tamilnadu</span></h2>

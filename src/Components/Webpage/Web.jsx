@@ -6,7 +6,7 @@ const Web = () => {
   return (
     <div className='website'>
       <div className='header'>
-              <h1 className='title'>𝔡𝔢𝔳𝔦𝔩 <span>.ℭ𝔬𝔣𝔣𝔢𝔢😈</span></h1>
+              <h1 className='title'>.ℭ<span>𝔬𝔣𝔣𝔢𝔢</span></h1>
             <ul>
               <li><Link to='/Home'><button className='button'>Home</button></Link></li>
               <li><Link to='/WebOffer'><button className='button'>Offer</button></Link></li>
